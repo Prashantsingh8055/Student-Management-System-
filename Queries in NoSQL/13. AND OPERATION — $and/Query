@@ -1,0 +1,11 @@
+MongoDB Query:
+
+db. students. find({
+  $and:[
+    {marks:{$gt:80}},
+    {age:19}
+  ]
+})
+
+
+Explanation: Finds students satisfying both conditions.
