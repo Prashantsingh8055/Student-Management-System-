@@ -1,0 +1,11 @@
+MongoDB Query:
+
+db.students.find({
+  $or:[
+    {city:"Lucknow"},
+    {city:"Kanpur"}
+  ]
+})
+
+
+Explanation: Finds students from Lucknow or Kanpur.
