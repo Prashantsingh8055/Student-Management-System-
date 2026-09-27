@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.countDocuments()
+
+Explanation: Counts documents currently present in the collection (performing after the delete function).
