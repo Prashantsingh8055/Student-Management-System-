@@ -1,0 +1,5 @@
+A.MongoDB Query:
+
+db.students.find().sort({marks : 1})
+
+Explanation: Sorts students by marks from lowest to highest. Use 1 for ascending order.
