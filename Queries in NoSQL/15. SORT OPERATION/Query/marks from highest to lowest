@@ -1,0 +1,5 @@
+B. MongoDB Query:
+
+db.students.find().Sort({marks: -1}) 
+
+Explanation: Sorts students by marks from highest to lowest. Use -1 for descending order.
