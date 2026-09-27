@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find({marks: {$gte: 90}})
+
+Explanation: Finds students whose marks are 90 or above.
