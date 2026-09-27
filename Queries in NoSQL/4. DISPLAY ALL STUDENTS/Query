@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find()                                                                                               
+
+Explanation: Retrieves documents from the students collection.
