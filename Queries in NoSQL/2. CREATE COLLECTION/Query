@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.create Collection("Students")
+
+Explanation: Creates a collection named Students.
