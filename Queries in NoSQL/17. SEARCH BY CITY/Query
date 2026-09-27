@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find({city:"Lucknow"})
+
+Explanation: Finds all students whose city is Lucknow.
