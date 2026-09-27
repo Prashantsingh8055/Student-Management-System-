@@ -1,0 +1,9 @@
+MongoDB Query:
+
+db.students.updateOne(
+  {roll:105},
+  {$set:{marks:95}}
+)
+
+
+Explanation: Updates the marks to 95 of the student with roll number 105.
