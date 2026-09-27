@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find({marks: {$lt: 70}})  
+
+Explanation: Finds students whose marks are less than 70.
