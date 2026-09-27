@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.deleteOne({roll:10})
+
+Explanation: Deletes one document matching roll number 10.
