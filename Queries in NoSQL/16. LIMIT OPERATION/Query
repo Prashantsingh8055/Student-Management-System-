@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find().limit(5)
+
+Explanation: Displays only the first five documents.
