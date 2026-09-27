@@ -1,0 +1,8 @@
+MongoDB Query:
+
+db.students.deleteMany({
+  marks: {$lt:40}
+})
+
+
+Explanation: Deletes all students having marks below 40.
