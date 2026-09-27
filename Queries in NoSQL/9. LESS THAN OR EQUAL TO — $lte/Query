@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find({marks: {$lte: 60}})
+
+Explanation: Finds students whose marks are 60 or below.
