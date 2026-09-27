@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find({marks: {$gt: 85}})
+
+Explanation: Finds students whose marks are greater than 85.
