@@ -1,0 +1,5 @@
+MongoDB Query:
+
+db.students.find({marks: {$eq: 85}})
+
+Explanation: Finds students whose marks are exactly 85.
